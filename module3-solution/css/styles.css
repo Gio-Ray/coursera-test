@@ -87,14 +87,14 @@ h1 {
   .container-fluid .navbar-header button{
       border: solid #000000;
   }
-  .container-fluid .navbar-header button span{
+  .container-fluid .navbar-header button .icon-bar{
       background-color: #000000;
   }
     .container-fluid .navbar-header button:focus{
       background-color: #948d8d;
       border: solid #bcbdc2;
   }
-  .container-fluid .navbar-header button:focus span{
+  .container-fluid .navbar-header button .icon-bar:focus{
       background-color: #bcbdc2;
   }
   /* End Header */
